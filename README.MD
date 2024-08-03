@@ -76,11 +76,3 @@ If you want to contribute to or update the project, follow these guidelines:
    git push origin feature/your-feature
    ```
 7. **Create a Pull Request:** Open a pull request from your forked repository to the main repository and describe your changes.
-
-
-## Additional Information
-
-For more details, visit the following README files in the respective project folders:
-
-- **[Frontend README](path-to-emp_frontend-readme)**: Detailed information about the Angular frontend setup and usage.
-- **[Backend README](path-to-emp_backend-readme)**: Detailed information about the Spring Boot backend setup and usage.
